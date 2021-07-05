@@ -27,8 +27,7 @@ img.mb-2 {
 .btn-outline-primary:hover,
 .btn-outline-primary:active,
 .btn-outline-primary:visited,
-.btn-outline-primary:focus,
-.bg-primary {
+.btn-outline-primary:focus{
     background-color: #184074;
     border-color: #184074;
 }
